@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/leggeamy/ReadMe-generator/issues"
   },
-  "homepage": "https://github.com/leggeamy/ReadMe-generator#readme"
-}
+  "homepage": "https://github.com/leggeamy/ReadMe-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+    }
+  }
+

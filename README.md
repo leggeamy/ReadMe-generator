@@ -3,13 +3,13 @@
 
 ## Description
 
-An app that generates README.md files for projects whose repositories are hosted on GitHub.
+A command line app that generates README.md files for projects whose repositories are hosted on GitHub.
 
 ## Table of Contents
 
-*[Installation](#installation)
+* [Installation](#installation)
 
-*[Usage](#usage)
+* [Usage](#usage)
 
 * [Contribution](#contribution)
 
@@ -31,7 +31,7 @@ npm i
 
 
 
-## Contributing
+## Contribution
 
 undefined
 

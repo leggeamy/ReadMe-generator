@@ -36,9 +36,9 @@ ${data.description}
 
 ## Table of Contents
 
-*[Installation](#installation)
+* [Installation](#installation)
 
-*[Usage](#usage)
+* [Usage](#usage)
 ${renderLicenseLink(data.license)}
 * [Contribution](#contribution)
 
@@ -60,7 +60,7 @@ ${data.usage}
 
 ${renderLicenseSection(data.license)}
 
-## Contributing
+## Contribution
 
 ${data.contribution}
 
